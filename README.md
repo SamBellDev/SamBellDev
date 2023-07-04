@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @SamBellDev
-- 👀 I’m interested in finding a junior dev job
-- 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on open source projects which will help me learn!
 - 📫 How to reach me sambelldev@tuta.io
